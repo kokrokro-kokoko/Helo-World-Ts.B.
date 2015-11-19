@@ -1,2 +1,2 @@
-# Helo-World-Ts.B.
+# Hello-World-Ts.B.
 repozitoria
